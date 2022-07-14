@@ -1,8 +1,9 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Enumerable
 
-> Description the project.
+> In this project you will learn how to use a module inside your class. For this you will create a class `MyList` and a module `MyEnumerable`. Your module `MyEnumerable` will implement a subset of the functionality of [Enumerable](https://ruby-doc.org/core-3.0.0/Enumerable.html).
+
 
 ## Built With
 
@@ -30,7 +31,7 @@ cd enumerable
 Type these commands into the terminal:
 
 ```
-ruby enumerable.rb
+irb enumerable.rb
 ```
 
 ## Authors
@@ -40,6 +41,13 @@ ruby enumerable.rb
 - GitHub: [@rbanos-mv](https://github.com/rbanos-mv)
 - Twitter: [@RobertoBanosMV](https://twitter.com/RobertoBanosMV)
 - LinkedIn: [Roberto A Baños Alvarez](https://linkedin.com/in/roberto-a-baños-alvarez-500766234)
+
+
+👤 **Santiago**
+
+- GitHub: [@githubhandle](https://github.com/Santiago220991)
+- Twitter: [@twitterhandle](https://twitter.com/SanCardenas10)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alexandersantiagocardenas/)
 
 ## 🤝 Contributing
 
